@@ -1,0 +1,1 @@
+A followed a tutorial by Rails Girls as i wanted to refresh rails briefly before approaching a more ambitious Rails Project. I will be returning to this app next week to work on some front end skills again and add some javascript for interactivity. 
